@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="info">Please choose the number of digits of the number you want me to keep in mind. Note that your guessing rights will vary based on the number of digits.</string>
+</resources>
